@@ -259,6 +259,8 @@ void setup(){
 }
 
 void loop(){
+
+	delay(1000);
        
        buttonState = digitalRead(buttonPin);
        ///;
